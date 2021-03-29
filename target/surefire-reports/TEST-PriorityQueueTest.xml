@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="TW"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/hscli/2021_spring/Soft-Testing/HW/Directory/Lab-3/target/surefire/surefirebooter8460303029145655887.jar /home/hscli/2021_spring/Soft-Testing/HW/Directory/Lab-3/target/surefire 2021-03-29T17-43-23_800-jvmRun1 surefire6338071495921258217tmp surefire_05683284720128529045tmp"/>
+    <property name="sun.java.command" value="/home/hscli/2021_spring/Soft-Testing/HW/Directory/Lab-3/target/surefire/surefirebooter1453020617387249441.jar /home/hscli/2021_spring/Soft-Testing/HW/Directory/Lab-3/target/surefire 2021-03-29T18-21-03_690-jvmRun1 surefire9128695789201824889tmp surefire_014507860031980146425tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/hscli/2021_spring/Soft-Testing/HW/Directory/Lab-3/target/test-classes:/home/hscli/2021_spring/Soft-Testing/HW/Directory/Lab-3/target/classes:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/hscli/2021_spring/Soft-Testing/HW/Directory/Lab-3/target/surefire/surefirebooter8460303029145655887.jar"/>
+    <property name="surefire.real.class.path" value="/home/hscli/2021_spring/Soft-Testing/HW/Directory/Lab-3/target/surefire/surefirebooter1453020617387249441.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.10+9-Ubuntu-0ubuntu1.20.04"/>
     <property name="user.name" value="hscli"/>
