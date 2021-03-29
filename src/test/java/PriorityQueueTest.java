@@ -15,7 +15,7 @@ public class PriorityQueueTest {
 
     public static Stream<Arguments> getParameters(){
         return Stream.of(
-                arguments(new int[]{1,65,2,4}, new int[]{1,4,2,65}),
+                arguments(new int[]{1,65,2,4}, new int[]{1,2,4,65}),
                 arguments(new int[]{5,4,3,2}, new int[]{2,3,4,5}),
                 arguments(new int[]{6,5,3,0}, new int[]{0,3,5,6}),
                 arguments(new int[]{2,6,4,9}, new int[]{2,4,6,9}),
