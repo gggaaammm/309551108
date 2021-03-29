@@ -1,4 +1,4 @@
 language: java
 jdk:
   - oraclejdk11
-cript: mvn install
+script: mvn install
